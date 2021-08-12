@@ -1,2 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: JavaShop.class
+Main-Class: JavaShop
+Created-By: 1.0.0_01 (David_O_Ayangunna At SQI_College)
+
