@@ -1,3 +1,10 @@
-/mysql-connector-java-8.0.19.jar
-/mysql-connector.jar
-/stock_upload/
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+mysql-connector-java-8.0.19.jar
+mysql-connector.jar
+assets/stock_upload
